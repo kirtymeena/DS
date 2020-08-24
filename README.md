@@ -8,7 +8,7 @@
 - Dynamic size
 - Ease of insertion and deletion
 
-## DISADVANTAGE IF LL:
+## DISADVANTAGE OF LL:
 - Random access is not allowed
 - Extra memory for pointers
 - Not cache friendly
